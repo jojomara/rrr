@@ -1,0 +1,3 @@
+[submodule "testing-main"]
+	path = testing-main
+	url = https://github.com/jojomara/lala.git
